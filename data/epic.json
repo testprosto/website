@@ -1,0 +1,918 @@
+[
+  {
+    "title": "The Callisto Protocol",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1544020/capsule_616x353.jpg",
+    "appid": 1544020,
+    "expires": "2025-12-25T16:00:00Z",
+    "added": "2025-12-24T16:00:00Z",
+    "url": "https://store.epicgames.com/en-US/p/the-callisto-protocol"
+  },
+  {
+    "title": "Bloodstained: Ritual of the Night",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/692850/capsule_616x353.jpg",
+    "appid": 692850,
+    "expires": "2025-12-24T16:00:00Z",
+    "added": "2025-12-23T16:00:00Z",
+    "url": "https://store.epicgames.com/en-US/p/bloodstained-f3f575"
+  },
+  {
+    "title": "Paradise Killer",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1160220/capsule_616x353.jpg",
+    "appid": 1160220,
+    "expires": "2025-12-23T16:00:00Z",
+    "added": "2025-12-22T16:00:00Z",
+    "url": "https://store.epicgames.com/en-US/p/paradise-killer-c3ea1c"
+  },
+  {
+    "title": "Sorry We're Closed",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1796580/capsule_616x353.jpg",
+    "appid": 1796580,
+    "expires": "2025-12-22T16:00:00Z",
+    "added": "2025-12-21T16:00:00Z",
+    "url": "https://store.epicgames.com/en-US/p/sorry-were-closed-724c86"
+  },
+  {
+    "title": "Blood West",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1587130/capsule_616x353.jpg",
+    "appid": 1587130,
+    "expires": "2025-12-21T16:00:00Z",
+    "added": "2025-12-20T16:00:00Z",
+    "url": "https://store.epicgames.com/en-US/p/blood-west-8f6ffd"
+  },
+  {
+    "title": "Eternights",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1402110/capsule_616x353.jpg",
+    "appid": 1402110,
+    "expires": "2025-12-20T16:00:00Z",
+    "added": "2025-12-19T16:00:00Z",
+    "url": "https://store.epicgames.com/en-US/p/eternights-c2fbca"
+  },
+  {
+    "title": "Jotunnslayer: Hordes of Hel",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2820820/capsule_616x353.jpg",
+    "appid": 2820820,
+    "expires": "2025-12-19T16:00:00Z",
+    "added": "2025-12-18T16:00:00Z",
+    "url": "https://store.epicgames.com/en-US/p/jotunnslayer-hordes-of-hel-3579b3"
+  },
+  {
+    "title": "Hogwarts Legacy",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/990080/capsule_616x353.jpg",
+    "appid": 990080,
+    "expires": "2025-12-18T16:00:00Z",
+    "added": "2025-12-11T16:00:00Z",
+    "url": "https://store.epicgames.com/en-US/p/hogwarts-legacy"
+  },
+  {
+    "title": "The Jackbox Party Pack 4",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/610180/capsule_616x353.jpg",
+    "appid": 610180,
+    "expires": "2025-12-11T16:00:00Z",
+    "added": "2025-12-04T16:00:00Z",
+    "url": "https://store.epicgames.com/en-US/p/jackbox-party-pack-4"
+  },
+  {
+    "title": "The Darkside Detective",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/368390/capsule_616x353.jpg",
+    "appid": 368390,
+    "expires": "2025-12-11T16:00:00Z",
+    "added": "2025-12-04T16:00:00Z",
+    "url": "https://store.epicgames.com/en-US/p/the-darkside-detective-02fd5a"
+  },
+  {
+    "title": "Universe For Sale",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1627840/capsule_616x353.jpg",
+    "appid": 1627840,
+    "expires": "2025-12-04T16:00:00Z",
+    "added": "2025-11-27T15:00:00Z",
+    "url": "https://store.epicgames.com/en-US/p/universe-for-sale-05c53e"
+  },
+  {
+    "title": "Godzilla Voxel Wars",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2439780/capsule_616x353.jpg",
+    "appid": 2439780,
+    "expires": "2025-11-27T15:00:00Z",
+    "added": "2025-11-20T15:00:00Z",
+    "url": "https://store.epicgames.com/en-US/p/godzillawars-2c30e4"
+  },
+  {
+    "title": "Zoeti",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1434540/capsule_616x353.jpg",
+    "appid": 1434540,
+    "expires": "2025-11-27T15:00:00Z",
+    "added": "2025-11-20T15:00:00Z",
+    "url": "https://store.epicgames.com/en-US/p/zoeti-3ccef9"
+  },
+  {
+    "title": "Scourgebringer",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1037020/capsule_616x353.jpg",
+    "appid": 1037020,
+    "expires": "2025-11-20T15:00:00Z",
+    "added": "2025-11-13T15:00:00Z",
+    "url": "https://store.epicgames.com/en-US/p/scourgebringer"
+  },
+  {
+    "title": "Songs of Silence",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2195410/capsule_616x353.jpg",
+    "appid": 2195410,
+    "expires": "2025-11-20T15:00:00Z",
+    "added": "2025-11-13T15:00:00Z",
+    "url": "https://store.epicgames.com/en-US/p/songs-of-silence-778d86"
+  },
+  {
+    "title": "Zero Hour",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1359090/capsule_616x353.jpg",
+    "appid": 1359090,
+    "expires": "2025-11-20T15:00:00Z",
+    "added": "2025-11-13T15:00:00Z",
+    "url": "https://store.epicgames.com/en-US/p/zero-hour-8449a0"
+  },
+  {
+    "title": "Felix The Reaper",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/919410/capsule_616x353.jpg",
+    "appid": 919410,
+    "expires": "2025-11-13T15:00:00Z",
+    "added": "2025-11-06T15:00:00Z",
+    "url": "https://store.epicgames.com/en-US/p/felix-the-reaper-3f7e62"
+  },
+  {
+    "title": "Bendy and the Ink Machine",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/622650/capsule_616x353.jpg",
+    "appid": 622650,
+    "expires": "2025-11-06T15:00:00Z",
+    "added": "2025-10-30T15:00:00Z",
+    "url": "https://store.epicgames.com/en-US/p/bendy-and-the-ink-machine-60cf5a"
+  },
+  {
+    "title": "Five Nights at Freddy's: Into the Pit",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2638370/capsule_616x353.jpg",
+    "appid": 2638370,
+    "expires": "2025-11-06T15:00:00Z",
+    "added": "2025-10-30T15:00:00Z",
+    "url": "https://store.epicgames.com/en-US/p/five-nights-at-freddys-into-the-pit-99c563"
+  },
+  {
+    "title": "Fear The Spotlight",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1959390/capsule_616x353.jpg",
+    "appid": 1959390,
+    "expires": "2025-10-30T15:00:00Z",
+    "added": "2025-10-23T15:00:00Z",
+    "url": "https://store.epicgames.com/en-US/p/fear-the-spotlight-97656f"
+  },
+  {
+    "title": "Amnesia: The Bunker",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1944430/capsule_616x353.jpg",
+    "appid": 1944430,
+    "expires": "2025-10-23T15:00:00Z",
+    "added": "2025-10-16T15:00:00Z",
+    "url": "https://store.epicgames.com/en-US/p/amnesia-the-bunker-9d5799"
+  },
+  {
+    "title": "Samorost 3",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/421120/capsule_616x353.jpg",
+    "appid": 421120,
+    "expires": "2025-10-23T15:00:00Z",
+    "added": "2025-10-16T15:00:00Z",
+    "url": "https://store.epicgames.com/en-US/p/samorost-3-0c4489"
+  },
+  {
+    "title": "Gravity Circuit",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/858710/capsule_616x353.jpg",
+    "appid": 858710,
+    "expires": "2025-10-16T15:00:00Z",
+    "added": "2025-10-09T15:00:00Z",
+    "url": "https://store.epicgames.com/en-US/p/gravity-circuit-489baa"
+  },
+  {
+    "title": "Nightingale",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1928980/capsule_616x353.jpg",
+    "appid": 1928980,
+    "expires": "2025-10-09T15:00:00Z",
+    "added": "2025-10-02T15:00:00Z",
+    "url": "https://store.epicgames.com/en-US/p/nightingale"
+  },
+  {
+    "title": "Eastern Exorcist",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1120810/capsule_616x353.jpg",
+    "appid": 1120810,
+    "expires": "2025-10-02T15:00:00Z",
+    "added": "2025-09-25T15:00:00Z",
+    "url": "https://store.epicgames.com/en-US/p/eastern-exorcist-d49923"
+  },
+  {
+    "title": "Jorel's Brother...",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1398910/capsule_616x353.jpg",
+    "appid": 1398910,
+    "expires": "2025-10-02T15:00:00Z",
+    "added": "2025-09-25T15:00:00Z",
+    "url": "https://store.epicgames.com/en-US/p/jorels-brother-and-the-most-important-game-of-the-galaxy-47435f"
+  },
+  {
+    "title": "Project Winter",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/774861/capsule_616x353.jpg",
+    "appid": 774861,
+    "expires": "2025-09-25T15:00:00Z",
+    "added": "2025-09-18T15:00:00Z",
+    "url": "https://store.epicgames.com/en-US/p/project-winter-3b9e84"
+  },
+  {
+    "title": "Samorost 2",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/40720/capsule_616x353.jpg",
+    "appid": 40720,
+    "expires": "2025-09-25T15:00:00Z",
+    "added": "2025-09-18T15:00:00Z",
+    "url": "https://store.epicgames.com/en-US/p/samorost-2-1b9bb1"
+  },
+  {
+    "title": "Ghostrunner 2",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2144740/capsule_616x353.jpg",
+    "appid": 2144740,
+    "expires": "2025-09-18T15:00:00Z",
+    "added": "2025-09-11T15:00:00Z",
+    "url": "https://store.epicgames.com/en-US/p/ghostrunner-2"
+  },
+  {
+    "title": "Monument Valley 2",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1927740/capsule_616x353.jpg",
+    "appid": 1927740,
+    "expires": "2025-09-18T15:00:00Z",
+    "added": "2025-09-11T15:00:00Z",
+    "url": "https://store.epicgames.com/en-US/p/monument-valley-2-addd02"
+  },
+  {
+    "title": "The Battle of Polytopia",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/874390/capsule_616x353.jpg",
+    "appid": 874390,
+    "expires": "2025-09-18T15:00:00Z",
+    "added": "2025-09-11T15:00:00Z",
+    "url": "https://store.epicgames.com/en-US/p/the-battle-of-polytopia-12fed6"
+  },
+  {
+    "title": "Monument Valley",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1927720/capsule_616x353.jpg",
+    "appid": 1927720,
+    "expires": "2025-09-11T15:00:00Z",
+    "added": "2025-09-04T15:00:00Z",
+    "url": "https://store.epicgames.com/en-US/p/monument-valley-1d99d3"
+  },
+  {
+    "title": "Machinarium",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/40700/capsule_616x353.jpg",
+    "appid": 40700,
+    "expires": "2025-09-04T15:00:00Z",
+    "added": "2025-08-28T15:00:00Z",
+    "url": "https://store.epicgames.com/en-US/p/machinarium-5e6c71"
+  },
+  {
+    "title": "Make Way",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1445790/capsule_616x353.jpg",
+    "appid": 1445790,
+    "expires": "2025-09-04T15:00:00Z",
+    "added": "2025-08-28T15:00:00Z",
+    "url": "https://store.epicgames.com/en-US/p/make-way-bddf5f"
+  },
+  {
+    "title": "Kamaeru",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1978150/capsule_616x353.jpg",
+    "appid": 1978150,
+    "expires": "2025-08-28T15:00:00Z",
+    "added": "2025-08-21T15:00:00Z",
+    "url": "https://store.epicgames.com/en-US/p/kamaeru-0c301e"
+  },
+  {
+    "title": "Strange Horticulture",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1574580/capsule_616x353.jpg",
+    "appid": 1574580,
+    "expires": "2025-08-28T15:00:00Z",
+    "added": "2025-08-21T15:00:00Z",
+    "url": "https://store.epicgames.com/en-US/p/strange-horticulture-360e80"
+  },
+  {
+    "title": "Hidden Folks",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/435400/capsule_616x353.jpg",
+    "appid": 435400,
+    "expires": "2025-08-21T15:00:00Z",
+    "added": "2025-08-14T15:00:00Z",
+    "url": "https://ftk.gg/epic/hidden-folks"
+  },
+  {
+    "title": "Totally Reliable Delivery Service",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1011670/capsule_616x353.jpg",
+    "appid": 1011670,
+    "expires": "2025-08-21T15:00:00Z",
+    "added": "2025-08-14T15:00:00Z",
+    "url": "https://ftk.gg/epic/total-reliable-delivery"
+  },
+  {
+    "title": "112 Operator",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/793460/capsule_616x353.jpg",
+    "appid": 793460,
+    "expires": "2025-08-14T15:00:00Z",
+    "added": "2025-08-07T15:00:00Z",
+    "url": "https://ftk.gg/epic/112-operator"
+  },
+  {
+    "title": "Road Redemption",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/300380/capsule_616x353.jpg",
+    "appid": 300380,
+    "expires": "2025-08-14T15:00:00Z",
+    "added": "2025-08-07T15:00:00Z",
+    "url": "https://ftk.gg/epic/road-redemption"
+  },
+  {
+    "title": "Pilgrims",
+    "image": "https://cdn1.epicgames.com/spt-assets/bfb773acd06f4d4090b82bd18f4b7744/pilgrims-jgz8i.png?resize=1&w=854&h=480&quality=medium",
+    "appid": 1049280,
+    "expires": "2025-08-07T15:00:00Z",
+    "added": "2025-07-31T15:00:00Z",
+    "url": "https://ftk.gg/epic/pilgrims"
+  },
+  {
+    "title": "Keylocker",
+    "image": "https://cdn1.epicgames.com/spt-assets/186103570e674b0f9b60a1003ec09d07/keylocker-cr3ty.png?resize=1&w=854&h=480&quality=medium",
+    "appid": 1325040,
+    "expires": "2025-08-07T15:00:00Z",
+    "added": "2025-07-31T15:00:00Z",
+    "url": "https://ftk.gg/epic/keylocker"
+  },
+  {
+    "title": "Legion TD 2",
+    "image": "https://cdn1.epicgames.com/spt-assets/29586d03c1c147569a1991a8616c1413/legion-td-2-1em1j.png?resize=1&w=854&h=480&quality=medium",
+    "appid": 469600,
+    "expires": "2025-07-31T15:00:00Z",
+    "added": "2025-07-24T15:00:00Z",
+    "url": "https://ftk.gg/epic/legion-td-2"
+  },
+  {
+    "title": "Sid Meier's Civilization VI",
+    "image": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVIPlatinumEdition_FiraxisGames_Bundles_S1-2560x1440-377e869fc8f4efea4ff996b406859a4f.jpg?resize=1&w=854&h=480&quality=medium",
+    "appid": 289070,
+    "expires": "2025-07-24T15:00:00Z",
+    "added": "2025-07-17T15:00:00Z",
+    "url": "https://ftk.gg/epic/civ6-platinum"
+  },
+  {
+    "title": "Figment",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/493540/capsule_616x353.jpg",
+    "appid": 493540,
+    "expires": "2025-07-10T15:00:00Z",
+    "added": "2025-07-03T15:00:00Z",
+    "url": "https://ftk.gg/epic/figment"
+  },
+  {
+    "title": "Backpack Hero",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1970580/capsule_616x353.jpg",
+    "appid": 1970580,
+    "expires": "2025-07-10T15:00:00Z",
+    "added": "2025-07-03T15:00:00Z",
+    "url": "https://ftk.gg/epic/backpack-hero"
+  },
+  {
+    "title": "Figment 2: Creed Valley",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1085220/capsule_616x353.jpg",
+    "appid": 1085220,
+    "expires": "2025-07-17T15:00:00Z",
+    "added": "2025-07-10T15:00:00Z",
+    "url": "https://ftk.gg/epic/figment2"
+  },
+  {
+    "title": "Sky Racket",
+    "image": "https://cdn1.epicgames.com/spt/39e680de-9f71-4475-b5dd-e25ffc8ed026/sky-racket-offer-30e7f1bd.jpg?resize=1&w=854&h=480&quality=medium",
+    "appid": 994500,
+    "expires": "2025-07-17T15:00:00Z",
+    "added": "2025-07-10T15:00:00Z",
+    "url": "https://ftk.gg/epic/sky-racket"
+  },
+  {
+    "title":"Sable",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/sableepic.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/sable"
+  },
+  {
+    "title":"The Operator",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/theoperator.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/the-operator"
+  },
+  {
+    "title":"Two Point Hospital",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/2pointhospital.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/two-point-hospital"
+  },
+  {
+    "title":"Gigapocalypse",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/gigapoc2.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/gigapocalypse"
+  },
+  {
+    "title":"Dead Island 2",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/deadisland2.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/dead-island-2"
+  },
+  {
+    "title":"Happy Game",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/happygame.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/happy-game"
+  },
+  {
+    "title":"Touch Type Tale",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/touchtypetale.png",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/touch-type-tale"
+  },
+  {
+    "title":"Deadtime Defenders",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/deadtimedefenders.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/deadtime-defenders"
+  },
+  {
+    "title":"Super Space Club",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/superspacelcub.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/super-space-club"
+  },
+  {
+    "title":"CHUCHEL",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/chuchel.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/chuchel"
+  },
+  {
+    "title":"Botanicula",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/botanicula.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/botanicula"
+  },
+  {
+    "title":"River City Girls",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/rcgs.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/river-city-girls"
+  },
+  {
+    "title":"Jurassic World Evolution 2",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/jwe2.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/jurassic-world-evolution-2"
+  },
+  {
+    "title":"Mortal Shell",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/mortalshell.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/mortal-shell"
+  },
+  {
+    "title":"Them's Fightin' Herds",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/themsfightin.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/them-s-fightin-herds"
+  },
+  {
+    "title":"Mages of Mystralia",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/magesofm.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/mages-of-mystralia"
+  },
+  {
+    "title":"STAR WARS KotOR II (Mobile)",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/kotor2.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/star-wars-kotor-ii-mobile"
+  },
+  {
+    "title":"STAR WARS KotOR I (Mobile)",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/kotor1.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/star-wars-kotor-i-mobile"
+  },
+  {
+    "title":"Garden Story",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/gstory2.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/garden-story"
+  },
+  {
+    "title":"World War Z: Aftermath",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/wwzaf2.png",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/world-war-z-aftermath"
+  },
+  {
+    "title":"F1 Manager 2024",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/f1man24.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/f1-manager-2024"
+  },
+  {
+    "title":"HUMANKIND",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/humankind.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/humankind"
+  },
+  {
+    "title":"Beyond Blue",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/beyodnblue.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/beyond-blue"
+  },
+  {
+    "title":"Undying",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/undying.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/undying"
+  },
+  {
+    "title":"Bloons TD 6 (Mobile)",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/bloonstd6.png",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/bloons-td-6-mobile"
+  },
+  {
+    "title":"DotE: Apogee (Mobile)",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/doteapogee.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/dote-apogee-mobile"
+  },
+  {
+    "title":"Behind The Frame",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/behindtheframe.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/behind-the-frame"
+  },
+  {
+    "title":"Escape Academy",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/escapeaca.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/escape-academy"
+  },
+  {
+    "title":"Turmoil",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/turmoil.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/turmoil"
+  },
+  {
+    "title":"Hell Let Loose",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/hellletloose.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/hell-let-loose"
+  },
+  {
+    "title":"Kingdom Come: Deliverance",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/kcdeliver.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/kingdom-come-deliverance"
+  },
+  {
+    "title":"Control",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/control.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/control"
+  },
+  {
+    "title":"DREDGE",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/dredge.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/dredge"
+  },
+  {
+    "title":"Wizard of Legend",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/wizardoflegend.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/wizard-of-legend"
+  },
+  {
+    "title":"TerraTech",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/terratech.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/terratech"
+  },
+  {
+    "title":"Astrea: Six Sided Oracles",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/astrea.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/astrea-six-sided-oracles"
+  },
+  {
+    "title":"Vampire Survivors",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/vampiresurvivors.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/vampire-survivors"
+  },
+  {
+    "title":"LEGO\u00ae Star Wars: The Skywalker Saga",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/legoskywalkersaga.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/lego-star-wars-the-skywalker-saga"
+  },
+  {
+    "title":"Bus Simulator 21 Next Stop",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/bussim21.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/bus-simulator-21-next-stop"
+  },
+  {
+    "title":"Beholder",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/beholder.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/beholder"
+  },
+  {
+    "title":"Castlevania Anniversary Collection",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/castlevania.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/castlevania-anniversary-collection"
+  },
+  {
+    "title":"Snakebird Complete",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/snakebird.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/snakebird-complete"
+  },
+  {
+    "title":"Deceive Inc.",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/deceiveinc.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/deceive-inc"
+  },
+  {
+    "title":"Ghostwire: Tokyo",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/ghostwiretokyo.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/ghostwire-tokyo"
+  },
+  {
+    "title":"Witch It",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/witchit.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/witch-it"
+  },
+  {
+    "title":"Moving Out",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/movingout.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/moving-out"
+  },
+  {
+    "title":"Kardboard Kings",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/kardboardkings.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/kardboard-kings"
+  },
+  {
+    "title":"Invincible Presents: Atom Eve",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/atomeve.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/invincible-presents-atom-eve"
+  },
+  {
+    "title":"Outliver: Tribulation",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/outlivertrib.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/outliver-tribulation"
+  },
+  {
+    "title":"Empyrion",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/empyrion.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/empyrion"
+  },
+  {
+    "title":"Bear and Breakfast",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/bearandbreakfast.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/bear-and-breakfast"
+  },
+  {
+    "title":"The Spirit and the Mouse",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/spiritandmouse.jpeg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/the-spirit-and-the-mouse"
+  },
+  {
+    "title":"The Last Stand: Aftermath",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/laststandaftermath.png",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/the-last-stand-aftermath"
+  },
+  {
+    "title":"TOEM",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/toem.png",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/toem"
+  },
+  {
+    "title":"SUPER CRAZY RHYTHM CASTLE",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/scrc.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/super-crazy-rhythm-castle"
+  },
+  {
+    "title":"Rugrats: Adventures in Gameland",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/rugrats.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/rugrats-adventures-in-gameland"
+  },
+  {
+    "title":"Sniper Ghost Warrior Contracts",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/sgwcontracts.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/sniper-ghost-warrior-contracts"
+  },
+  {
+    "title":"Football Manager 2024",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/fm2024.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/football-manager-2024"
+  },
+  {
+    "title":"Wild Card Football",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/wildcardfootball.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/wild-card-football"
+  },
+  {
+    "title":"Fallout Classic Collection",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/falloutclassic.png",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/fallout-classic-collection"
+  },
+  {
+    "title":"The Callisto Protocol",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/callistoproto.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/the-callisto-protocol"
+  },
+  {
+    "title":"Gigantic: Rampage Edition",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/giganticrampage.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/gigantic-rampage-edition"
+  },
+  {
+    "title":"Death's Gambit: Afterlife",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/deathsgambit.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/death-s-gambit-afterlife"
+  },
+  {
+    "title":"CYGNI: All Guns Blazing",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/cygni.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/cygni-all-guns-blazing"
+  },
+  {
+    "title":"DNF Duel",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/dnfduel.jpg",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/dnf-duel"
+  },
+  {
+    "title":"LumbearJack",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/lumbearjack.png",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/lumbearjack"
+  },
+  {
+    "title":"F.I.S.T.: Forged in Shadow Torch",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/fist.png",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/f-i-s-t-forged-in-shadow-torch"
+  },
+  {
+    "title":"Maid of Sker",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/maidofsker.png",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/maid-of-sker"
+  },
+  {
+    "title":"Arcade Paradise",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/arcadeparadise.png",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/arcade-paradise"
+  },
+  {
+    "title":"Floppy Knights",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/floppyknights.png",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/floppy-knights"
+  },
+  {
+    "title":"The Falconeer",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/thefalconeer.png",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/the-falconeer"
+  },
+  {
+    "title":"Sunless Skies: Sovereign Edition",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/sunlessskies.png",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/sunless-skies-sovereign-edition"
+  },
+  {
+    "title":"Freshly Frosted",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/freshlyfrosted.png",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/freshly-frosted"
+  },
+  {
+    "title":"Redout 2",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/redout2.png",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/redout-2"
+  },
+  {
+    "title":"Idle Champions of the Forgotten Realms",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/idlechampionsfr.png",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/idle-champions-of-the-forgotten-realms"
+  },
+  {
+    "title":"Marvel's Midnight Suns",
+    "image":"https:\/\/kadpnlquujwqpjywszor.supabase.co\/storage\/v1\/object\/public\/game_images\/midnightsuns.png",
+    "expires":"2025-07-01T17:00:00Z",
+    "added":"2025-07-01T16:00:00Z",
+    "url":"https:\/\/ftk.gg\/epic\/marvel-s-midnight-suns"
+  }
+]

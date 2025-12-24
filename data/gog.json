@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Stasis",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/380150/capsule_616x353.jpg",
+    "appid": 380150,
+    "expires": "2025-11-03T14:00:00Z",
+    "added": "2025-10-31T14:00:00Z",
+    "url": "https://www.gog.com/en/game/stasis"
+  },
+  {
+    "title": "Gladius: Relics of War",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/489630/capsule_616x353.jpg",
+    "expires": "2025-06-13T17:00:00Z",
+    "added": "2025-06-10T17:00:00Z",
+    "url": "https://ftk.gg/gog/40000-gladius"
+  },
+  {
+    "title": "Rites of War",
+    "image": "https://kadpnlquujwqpjywszor.supabase.co/storage/v1/object/public/game_images/ritesofwar.png",
+    "expires": "2025-07-01T17:00:00Z",
+    "added": "2025-07-01T16:00:00Z",
+    "url": "https://ftk.gg/gog/rites-of-war"
+  },
+  {
+    "title": "Metro 2033 Redux",
+    "image": "https://kadpnlquujwqpjywszor.supabase.co/storage/v1/object/public/game_images/metro2033gog.jpg",
+    "expires": "2025-07-01T17:00:00Z",
+    "added": "2025-07-01T16:00:00Z",
+    "url": "https://ftk.gg/gog/metro-2033-redux"
+  },
+  {
+    "title": "HuniePop (NSFW)",
+    "image": "https://kadpnlquujwqpjywszor.supabase.co/storage/v1/object/public/game_images/huniepopg.jpg",
+    "expires": "2025-07-01T17:00:00Z",
+    "added": "2025-07-01T16:00:00Z",
+    "url": "https://ftk.gg/gog/huniepop"
+  },
+  {
+    "title": "Chicken Assassin: Reloaded",
+    "image": "https://kadpnlquujwqpjywszor.supabase.co/storage/v1/object/public/game_images/chickenassr.jpg",
+    "expires": "2025-07-01T17:00:00Z",
+    "added": "2025-07-01T16:00:00Z",
+    "url": "https://ftk.gg/gog/chicken-assassin"
+  },
+  {
+    "title": "Return of the Phantom",
+    "image": "https://kadpnlquujwqpjywszor.supabase.co/storage/v1/object/public/game_images/returnofthephantom.jpg",
+    "expires": "2025-07-01T17:00:00Z",
+    "added": "2025-07-01T16:00:00Z",
+    "url": "https://ftk.gg/gog/return-of-the-phantom"
+  },
+  {
+    "title": "Vambrace: Cold Soul",
+    "image": "https://kadpnlquujwqpjywszor.supabase.co/storage/v1/object/public/game_images/vambracecs.jpg",
+    "expires": "2025-07-01T17:00:00Z",
+    "added": "2025-07-01T16:00:00Z",
+    "url": "https://ftk.gg/gog/vambrace"
+  },
+  {
+    "title": "Diggles: The Myth of Fenris",
+    "image": "https://kadpnlquujwqpjywszor.supabase.co/storage/v1/object/public/game_images/diggles.jpg",
+    "expires": "2025-07-01T17:00:00Z",
+    "added": "2025-07-01T16:00:00Z",
+    "url": "https://ftk.gg/gog/diggles"
+  }
+]

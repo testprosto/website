@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Psychonauts 2",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/607080/capsule_616x353.jpg",
+    "appid": 607080,
+    "expires": "2025-10-07T08:00:00Z",
+    "added": "2025-09-02T17:00:00Z",
+    "url": "https://store.playstation.com/en-gb/product/EP6311-CUSA27146_00-PSYCHONAUTS2SIEE"
+  },
+  {
+    "title": "Stardew Valley",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413150/capsule_616x353.jpg",
+    "appid": 413150,
+    "expires": "2025-10-07T08:00:00Z",
+    "added": "2025-09-02T16:00:00Z",
+    "url": "https://store.playstation.com/en-gb/product/EP2319-CUSA26625_00-2010147637670638"
+  },
+  {
+    "title": "Viewfinder",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1382070/capsule_616x353.jpg",
+    "appid": 1382070,
+    "expires": "2025-10-07T08:00:00Z",
+    "added": "2025-09-02T16:00:00Z",
+    "url": "https://store.playstation.com/en-gb/product/EP5360-PPSA10248_00-VIEWFINDER0005EU"
+  },
+  {
+    "title": "Diablo IV",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2344520/capsule_616x353.jpg",
+    "appid": 2344520,
+    "expires": "2025-08-05T08:00:00Z",
+    "added": "2025-07-03T17:00:00Z",
+    "url": "https://ftk.gg/psplus/diablo-iv"
+  },
+  {
+    "title": "THE KING OF FIGHTERS XV",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1498570/capsule_616x353.jpg",
+    "appid": 1498570,
+    "expires": "2025-08-05T08:00:00Z",
+    "added": "2025-07-03T16:00:00Z",
+    "url": "https://ftk.gg/psplus/kof15"
+  },
+  {
+    "title": "Jusant",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1977170/capsule_616x353.jpg",
+    "appid": 1977170,
+    "expires": "2025-08-05T08:00:00Z",
+    "added": "2025-07-03T16:00:00Z",
+    "url": "https://ftk.gg/psplus/jusant"
+  },
+  {
+    "title": "Lies of P",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1627720/capsule_616x353.jpg",
+    "appid": 1627720,
+    "expires": "2025-09-02T08:00:00Z",
+    "added": "2025-08-05T16:00:00Z",
+    "url": "https://ftk.gg/psplus/lies-of-p"
+  },
+  {
+    "title": "DayZ",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/221100/capsule_616x353.jpg",
+    "appid": 221100,
+    "expires": "2025-09-02T08:00:00Z",
+    "added": "2025-08-05T16:00:00Z",
+    "url": "https://ftk.gg/psplus/dayz"
+  },
+  {
+    "title": "My Hero One's Justice 2",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1058450/capsule_616x353.jpg",
+    "appid": 1058450,
+    "expires": "2025-09-02T08:00:00Z",
+    "added": "2025-08-05T16:00:00Z",
+    "url": "https://ftk.gg/psplus/my-hero-one-2"
+  }
+]
