@@ -8,7 +8,7 @@
     header { background: #1f1f1f; padding: 20px; text-align: center; }
     h1 { margin: 0; font-size: 2rem; color: #ffcc00; }
     section { padding: 20px; }
-    h2 { color: #00ccff; }
+    h2 { color: #00ccff; margin-bottom: 15px; }
     .game { display: flex; align-items: center; margin-bottom: 15px; background: #1a1a1a; padding: 10px; border-radius: 8px; }
     .game img { width: 80px; height: 80px; object-fit: cover; border-radius: 8px; margin-right: 15px; }
     .game-info { flex: 1; }
@@ -26,36 +26,33 @@
 
 <section id="available">
     <h2>Available Games</h2>
-    <div id="available-list"></div>
+    <div id="available-list">Loading...</div>
 </section>
 
 <section id="expired">
     <h2>Expired Games</h2>
-    <div id="expired-list"></div>
+    <div id="expired-list">Loading...</div>
 </section>
 
 <script>
-// URLs to fetch games from
 const urls = [
-    "https://freetokeep.gg/data/epic.json",
-    "https://freetokeep.gg/data/steam.json",
-    "https://freetokeep.gg/data/gog.json",
-    "https://freetokeep.gg/data/itch.json",
-    "https://freetokeep.gg/data/stove.json",
-    "https://freetokeep.gg/data/fanatical.json",
-    "https://freetokeep.gg/data/prime.json",
-    "https://freetokeep.gg/data/limited.json"
+    "data/epic.json",
+    "data/steam.json",
+    "data/gog.json",
+    "data/itch.json",
+    "data/stove.json",
+    "data/fanatical.json",
+    "data/prime.json",
+    "data/limited.json"
 ];
 
 // Armenia timezone offset (UTC+4)
 const armeniaOffset = 4 * 60; // in minutes
 
-// Utility: format date
 function formatDate(date) {
     return date.toLocaleString('en-GB', { hour12: false });
 }
 
-// Fetch all games
 async function fetchGames() {
     const allGames = [];
     for (const url of urls) {
@@ -71,11 +68,11 @@ async function fetchGames() {
     return allGames;
 }
 
-// Main
 async function displayGames() {
     const games = await fetchGames();
+
     const now = new Date();
-    now.setMinutes(now.getMinutes() + armeniaOffset - now.getTimezoneOffset()); // Armenia time
+    now.setMinutes(now.getMinutes() + armeniaOffset - now.getTimezoneOffset());
 
     const availableList = document.getElementById("available-list");
     const expiredList = document.getElementById("expired-list");
@@ -84,7 +81,7 @@ async function displayGames() {
     const expiredGames = [];
 
     games.forEach(game => {
-        if (!game.expires) return; // skip if no expires field
+        if (!game.expires) return;
         const expiresUTC = new Date(game.expires);
         const expiresArmenia = new Date(expiresUTC.getTime() + armeniaOffset*60*1000);
         const gameEl = `
